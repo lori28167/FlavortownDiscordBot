@@ -71,3 +71,7 @@ The bot includes error handling for:
 - `requirements.txt` - Python dependencies
 - `.env.example` - Template for environment variables
 - `.gitignore` - Git ignore rules
+
+
+
+Made with ❤️ in Italy
