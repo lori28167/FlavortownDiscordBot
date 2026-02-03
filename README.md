@@ -1,17 +1,7 @@
 # Flavortown Discord Bot
 
 A Discord bot that integrates with the Flavortown API, allowing you to query projects, devlogs, users, and store items directly from Discord.
-
-## Features
-
-- 🔍 **Search Projects** - Find projects by title or description
-- 📝 **View Devlogs** - Browse and read devlogs from community members
-- 👥 **User Lookup** - Find users and view their stats
-- 🛍️ **Store Items** - Check out available store items
-- 📊 **Detailed Information** - Beautiful embeds with all relevant information
-
 ## Prerequisites
-
 - Python 3.8+
 - A Discord bot token (get one from [Discord Developer Portal](https://discord.com/developers/applications))
 - A Flavortown API key (get one from your [Flavortown account settings](https://flavortown.hackclub.com/account/settings))
@@ -81,7 +71,3 @@ The bot includes error handling for:
 - `requirements.txt` - Python dependencies
 - `.env.example` - Template for environment variables
 - `.gitignore` - Git ignore rules
-
-## License
-
-MIT
